@@ -1,1 +1,5 @@
-const newData = 0
+const newData = {}
+
+window.onload = () => {
+    alert("loaded!")
+}
